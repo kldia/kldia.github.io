@@ -20,7 +20,7 @@ body {
     color: #11998e;
     display: flex;
     align-items: center;
-    min-height: 150vh;
+    /* min-height: 150vh; */
     font-size: 1.5rem;
 }
 
@@ -46,8 +46,9 @@ body {
   position: relative;
   padding: 15px 0 0;
   width: 20%;
-  margin: 10px;
+  margin-bottom: 10px;
   margin-left: 200px;
+  margin-top: 600px;
 }
 .form__field {
   font-family: inherit;
