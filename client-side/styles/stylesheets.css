@@ -35,7 +35,7 @@ body {
 }
 
 #dev-img {
-    width: 300px;
+    width: 900px;
     top:  20%;
     left: 50%;
     position: absolute;
@@ -47,7 +47,7 @@ body {
   padding: 15px 0 0;
   width: 20%;
   margin-bottom: 10px;
-  margin-left: 200px;
+  margin-left: 150px;
   margin-top: 600px;
 }
 .form__field {
